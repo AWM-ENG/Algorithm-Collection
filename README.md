@@ -22,6 +22,4 @@ This repository is not limited to a single topic. It is an evolving collection w
 
 ## 🚀 How to Use
 1. Clone the repository:
-   `bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
 2. run the c++ file
