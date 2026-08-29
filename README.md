@@ -1,25 +1,21 @@
-# My Algorithm Collection 🚀
+# System Software Algorithms
 
-Welcome to my personal repository of algorithms! This project is a collection of various algorithms and data structures implemented from scratch. It serves as a personal portfolio to showcase my problem-solving skills and my understanding of computer science fundamentals.
+A curated collection of low-level algorithms, data structures, and core primitives for system software and embedded systems engineering.
 
-## 📌 About this Repository
-This repository is not limited to a single topic. It is an evolving collection where I document my journey through different domains of programming, including Operating Systems, Data Structures, and more.
+---
 
-## 📂 Contents
+## 📌 Overview
 
-### 1. Operating Systems (OS) Concepts 🖥️
-- CPU Scheduling Algorithms: Implementations of various scheduling techniques like First Come First Served (FCFS), which you can see in my current progress.
-- Process Management: Logic for calculating Turnaround Time (TAT) and Waiting Time (WT).
+This repository focuses on design, implementation, and performance analysis of foundational system-level software algorithms. It serves as a repository for bare-metal and OS-level operations, designed with high efficiency, low memory footprint, and high reliability in mind.
 
-### 2. Upcoming Implementations ⏳
-- Data Structures: Trees, Graphs, and Linked Lists.
-- Sorting & Searching: Efficient ways to organize and find data.
-- Machine Learning Foundations: Simple neural network concepts and activation functions (like ReLU and Tanh).
+---
 
-## 🛠️ Built With
-- Language: C++ (Mainly)
-- Concepts: Memory management, Object-Oriented Programming (OOP), and Algorithm Analysis.
+## 🏗️ Core Topics & Areas
 
-## 🚀 How to Use
-1. Clone the repository:
-2. run the c++ file
+The repository covers multiple domains of system software engineering:
+
+- Memory Management: Custom memory allocators, page replacement algorithms, dynamic heap handling, and memory control block management.
+- Process & Thread Scheduling: Task scheduling strategies, real-time priority queues, and context switching primitives.
+- Data Structures for Systems: Low-level cache-friendly dynamic structures, lock-free queues, and circular buffers.
+- Concurrency & Synchronization: Synchronization mechanisms, mutexes, semaphores, and inter-process communication (IPC) patterns.
+- Hardware & Peripherals Interaction: Low-level bitwise manipulation, driver abstractions, and register-level operations.
